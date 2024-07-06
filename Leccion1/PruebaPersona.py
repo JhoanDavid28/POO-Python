@@ -1,4 +1,4 @@
-from Persona import Persona
+from Leccion1.Persona import Persona
 
 
 print('Creación de objetos'.center(30, '-'))
